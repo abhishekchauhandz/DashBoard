@@ -5,7 +5,6 @@ import DashboardStats from './components/DashboardStats';
 import RecentTickets from './components/RecentTickets';
 import TopConsultants from './components/TopConsultants';
 import TopSessions from './components/Topsessions';
-
 export default function Home() {
     return (
         <div className="dashboard">
